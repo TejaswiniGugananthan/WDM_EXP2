@@ -11,7 +11,7 @@ Creation of Buying Table:
 1) Open Start -> Programs -> Accessories -> Notepad
 2) Type the following training data set with the help of Notepad for Buying Table.
 
-```
+
 @relation buying
 @attribute age {L20,20-40,G40}
 @attribute income {high,medium,low}
@@ -34,7 +34,7 @@ G40,high,yes,excellent,no
 20-40,medium,yes,excellent,yes
 L20,medium,yes,fair,yes
 G40,high,yes,excellent,yes
-```
+
 3) After that the file is saved with .arff file format.
 4) Minimize the arff file and then open Start -> Programs -> weka-3-4.
 5) Click on weka-3-4, then Weka dialog box is displayed on the screen.
@@ -42,7 +42,7 @@ G40,high,yes,excellent,yes
 7) Explorer shows many options. In that click on ‘open file’ and select the arff file
 8) Click on edit button which shows buying table on weka.
 ### OUTPUT:
-
+![Screenshot 2024-08-12 184152](https://github.com/user-attachments/assets/50540ebe-d0ec-4b80-aced-5ab29a7ccd70)
 
 ### Procedure for Association Rules:
 1) Open Start -> Programs -> Accessories -> Notepad
@@ -53,5 +53,9 @@ G40,high,yes,excellent,yes
 6) Click on Start button and output will be displayed on the right side of the window.
 
 ### OUTPUT:
+![Screenshot 2024-08-12 185934](https://github.com/user-attachments/assets/7570841e-cff6-4a25-aecb-6ad5abd66998)
+![Screenshot 2024-08-12 185951](https://github.com/user-attachments/assets/a93d2f6b-b3f4-4267-bb87-db6419de96e7)
+
 
 ### RESULT: 
+      Thus this program has been Sucessfully Executed.
